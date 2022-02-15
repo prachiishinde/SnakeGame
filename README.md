@@ -1,4 +1,4 @@
-                                           CLICK HERE TO PLAY --> https://prachiishinde.github.io/SnakeGame/
+                     CLICK HERE TO PLAY --> https://prachiishinde.github.io/SnakeGame/
                                            
                                            # SnakeGame #
                     *A basic Snake Game developed using HTML, CSS and JavaScript*
