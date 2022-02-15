@@ -1,4 +1,6 @@
-                                            # SnakeGame #
+                                           CLICK HERE TO PLAY --> https://prachiishinde.github.io/SnakeGame/
+                                           
+                                           # SnakeGame #
                     *A basic Snake Game developed using HTML, CSS and JavaScript*
                     
 The snake can move in any direction according to the user with the help of the keyboard (⬇️, ⬆️, ⬅️, ➡️ keys).
